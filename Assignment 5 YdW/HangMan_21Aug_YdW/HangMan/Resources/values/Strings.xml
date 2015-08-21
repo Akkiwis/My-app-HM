@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="Hello">Hello World, Click Me!</string>
+  <string name="ApplicationName">HangMan</string>
+
+  <string-array name ="HangMan_Pic" >
+    <item>HM_draw1</item>
+    <item>HM_draw2</item>
+    <item>HM_draw3</item>
+    <item>HM_draw4</item>
+    <item>HM_draw5</item>
+    <item>HM_draw6</item>
+  </string-array>
+</resources>

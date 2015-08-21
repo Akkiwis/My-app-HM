@@ -1,0 +1,94 @@
+C:\XApps\Yi work\HangMan\HangMan\bin\Debug\HangMan.dll
+C:\XApps\Yi work\HangMan\HangMan\bin\Debug\HangMan.pdb
+C:\XApps\Yi work\HangMan\HangMan\bin\Debug\HangMan.HangMan.apk
+C:\XApps\Yi work\HangMan\HangMan\bin\Debug\HangMan.HangMan-Signed.apk
+C:\XApps\Yi work\HangMan\HangMan\obj\Debug\HangMan.dll
+C:\XApps\Yi work\HangMan\HangMan\obj\Debug\HangMan.pdb
+C:\XApps\Yi work\HangMan\HangMan\obj\Debug\android\bin\HangMan.HangMan.apk
+C:\XApps\Yi work\HangMan\HangMan\obj\Debug\res\values\styles.xml
+C:\XApps\Yi work\HangMan\HangMan\obj\Debug\res\layout\main.xml
+C:\XApps\Yi work\HangMan\HangMan\obj\Debug\res\values\strings.xml
+C:\XApps\Yi work\HangMan\HangMan\obj\Debug\res\drawable\icon.png
+C:\XApps\Yi work\HangMan\HangMan\obj\Debug\res\drawable\hangman_icon.jpg
+C:\XApps\Yi work\HangMan\HangMan\obj\Debug\res\drawable\hm_icon.jpg
+C:\XApps\Yi work\HangMan\HangMan\obj\Debug\res\drawable\hm_splash.jpg
+C:\XApps\Yi work\HangMan\HangMan\obj\Debug\res\drawable\hm_draw1.jpg
+C:\XApps\Yi work\HangMan\HangMan\obj\Debug\res\drawable\hm_draw2.jpg
+C:\XApps\Yi work\HangMan\HangMan\obj\Debug\res\drawable\hm_draw3.jpg
+C:\XApps\Yi work\HangMan\HangMan\obj\Debug\res\drawable\hm_draw4.jpg
+C:\XApps\Yi work\HangMan\HangMan\obj\Debug\res\drawable\hm_draw5.jpg
+C:\XApps\Yi work\HangMan\HangMan\obj\Debug\res\drawable\hm_draw6.jpg
+C:\XApps\Yi work\HangMan\HangMan\obj\Debug\R.cs.flag
+C:\XApps\Yi work\HangMan\HangMan\obj\Debug\uploadflags.txt
+C:\XApps\Yi work\HangMan\HangMan\obj\Debug\HangMan.csprojResolveAssemblyReference.cache
+C:\XApps\Yi work\Finished section of HM\HangMan\HangMan\bin\Debug\HangMan.dll
+C:\XApps\Yi work\Finished section of HM\HangMan\HangMan\bin\Debug\HangMan.pdb
+C:\XApps\Yi work\Finished section of HM\HangMan\HangMan\bin\Debug\HangMan.HangMan.apk
+C:\XApps\Yi work\Finished section of HM\HangMan\HangMan\bin\Debug\HangMan.HangMan-Signed.apk
+C:\XApps\Yi work\Finished section of HM\HangMan\HangMan\obj\Debug\HangMan.csprojResolveAssemblyReference.cache
+C:\XApps\Yi work\Finished section of HM\HangMan\HangMan\obj\Debug\HangMan.dll
+C:\XApps\Yi work\Finished section of HM\HangMan\HangMan\obj\Debug\HangMan.pdb
+C:\XApps\Yi work\Finished section of HM\HangMan\HangMan\obj\Debug\android\bin\HangMan.HangMan.apk
+C:\XApps\Yi work\Finished section of HM\HangMan\HangMan\obj\Debug\res\values\styles.xml
+C:\XApps\Yi work\Finished section of HM\HangMan\HangMan\obj\Debug\res\layout\main.xml
+C:\XApps\Yi work\Finished section of HM\HangMan\HangMan\obj\Debug\res\values\strings.xml
+C:\XApps\Yi work\Finished section of HM\HangMan\HangMan\obj\Debug\res\drawable\icon.png
+C:\XApps\Yi work\Finished section of HM\HangMan\HangMan\obj\Debug\res\drawable\hangman_icon.jpg
+C:\XApps\Yi work\Finished section of HM\HangMan\HangMan\obj\Debug\res\drawable\hm_icon.jpg
+C:\XApps\Yi work\Finished section of HM\HangMan\HangMan\obj\Debug\res\drawable\hm_splash.jpg
+C:\XApps\Yi work\Finished section of HM\HangMan\HangMan\obj\Debug\res\drawable\hm_draw1.jpg
+C:\XApps\Yi work\Finished section of HM\HangMan\HangMan\obj\Debug\res\drawable\hm_draw2.jpg
+C:\XApps\Yi work\Finished section of HM\HangMan\HangMan\obj\Debug\res\drawable\hm_draw3.jpg
+C:\XApps\Yi work\Finished section of HM\HangMan\HangMan\obj\Debug\res\drawable\hm_draw4.jpg
+C:\XApps\Yi work\Finished section of HM\HangMan\HangMan\obj\Debug\res\drawable\hm_draw5.jpg
+C:\XApps\Yi work\Finished section of HM\HangMan\HangMan\obj\Debug\res\drawable\hm_draw6.jpg
+C:\XApps\Yi work\Finished section of HM\HangMan\HangMan\obj\Debug\R.cs.flag
+C:\XApps\Yi work\Finished section of HM\HangMan\HangMan\obj\Debug\uploadflags.txt
+C:\XApps\HangMan\HangMan\bin\Debug\HangMan.dll
+C:\XApps\HangMan\HangMan\bin\Debug\HangMan.pdb
+C:\XApps\HangMan\HangMan\bin\Debug\HangMan.HangMan.apk
+C:\XApps\HangMan\HangMan\bin\Debug\HangMan.HangMan-Signed.apk
+C:\XApps\HangMan\HangMan\obj\Debug\HangMan.csprojResolveAssemblyReference.cache
+C:\XApps\HangMan\HangMan\obj\Debug\HangMan.dll
+C:\XApps\HangMan\HangMan\obj\Debug\HangMan.pdb
+C:\XApps\HangMan\HangMan\obj\Debug\android\bin\HangMan.HangMan.apk
+C:\XApps\HangMan\HangMan\obj\Debug\res\values\styles.xml
+C:\XApps\HangMan\HangMan\obj\Debug\res\layout\hm.xml
+C:\XApps\HangMan\HangMan\obj\Debug\res\layout\main.xml
+C:\XApps\HangMan\HangMan\obj\Debug\res\values\strings.xml
+C:\XApps\HangMan\HangMan\obj\Debug\res\drawable\icon.png
+C:\XApps\HangMan\HangMan\obj\Debug\res\drawable\hangman_icon.jpg
+C:\XApps\HangMan\HangMan\obj\Debug\res\drawable\hm_icon.jpg
+C:\XApps\HangMan\HangMan\obj\Debug\res\drawable\hm_splash.jpg
+C:\XApps\HangMan\HangMan\obj\Debug\res\drawable\hm_draw1.jpg
+C:\XApps\HangMan\HangMan\obj\Debug\res\drawable\hm_draw2.jpg
+C:\XApps\HangMan\HangMan\obj\Debug\res\drawable\hm_draw3.jpg
+C:\XApps\HangMan\HangMan\obj\Debug\res\drawable\hm_draw4.jpg
+C:\XApps\HangMan\HangMan\obj\Debug\res\drawable\hm_draw5.jpg
+C:\XApps\HangMan\HangMan\obj\Debug\res\drawable\hm_draw6.jpg
+C:\XApps\HangMan\HangMan\obj\Debug\R.cs.flag
+C:\XApps\HangMan\HangMan\obj\Debug\uploadflags.txt
+C:\XApps\HangMan_21Aug_YdW\HangMan\bin\Debug\HangMan.dll
+C:\XApps\HangMan_21Aug_YdW\HangMan\bin\Debug\HangMan.pdb
+C:\XApps\HangMan_21Aug_YdW\HangMan\bin\Debug\HangMan.HangMan.apk
+C:\XApps\HangMan_21Aug_YdW\HangMan\bin\Debug\HangMan.HangMan-Signed.apk
+C:\XApps\HangMan_21Aug_YdW\HangMan\obj\Debug\HangMan.csprojResolveAssemblyReference.cache
+C:\XApps\HangMan_21Aug_YdW\HangMan\obj\Debug\HangMan.dll
+C:\XApps\HangMan_21Aug_YdW\HangMan\obj\Debug\HangMan.pdb
+C:\XApps\HangMan_21Aug_YdW\HangMan\obj\Debug\android\bin\HangMan.HangMan.apk
+C:\XApps\HangMan_21Aug_YdW\HangMan\obj\Debug\res\values\styles.xml
+C:\XApps\HangMan_21Aug_YdW\HangMan\obj\Debug\res\layout\hm.xml
+C:\XApps\HangMan_21Aug_YdW\HangMan\obj\Debug\res\layout\main.xml
+C:\XApps\HangMan_21Aug_YdW\HangMan\obj\Debug\res\values\strings.xml
+C:\XApps\HangMan_21Aug_YdW\HangMan\obj\Debug\res\drawable\icon.png
+C:\XApps\HangMan_21Aug_YdW\HangMan\obj\Debug\res\drawable\hangman_icon.jpg
+C:\XApps\HangMan_21Aug_YdW\HangMan\obj\Debug\res\drawable\hm_icon.jpg
+C:\XApps\HangMan_21Aug_YdW\HangMan\obj\Debug\res\drawable\hm_splash.jpg
+C:\XApps\HangMan_21Aug_YdW\HangMan\obj\Debug\res\drawable\hm_draw1.jpg
+C:\XApps\HangMan_21Aug_YdW\HangMan\obj\Debug\res\drawable\hm_draw2.jpg
+C:\XApps\HangMan_21Aug_YdW\HangMan\obj\Debug\res\drawable\hm_draw3.jpg
+C:\XApps\HangMan_21Aug_YdW\HangMan\obj\Debug\res\drawable\hm_draw4.jpg
+C:\XApps\HangMan_21Aug_YdW\HangMan\obj\Debug\res\drawable\hm_draw5.jpg
+C:\XApps\HangMan_21Aug_YdW\HangMan\obj\Debug\res\drawable\hm_draw6.jpg
+C:\XApps\HangMan_21Aug_YdW\HangMan\obj\Debug\R.cs.flag
+C:\XApps\HangMan_21Aug_YdW\HangMan\obj\Debug\uploadflags.txt

@@ -1,0 +1,12 @@
+HangMan.DataAdapter1, HangMan;md5c657ab4b1f002f2e7fd4c242fe474481.DataAdapter1
+HangMan.DataAdapter1, HangMan, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5c657ab4b1f002f2e7fd4c242fe474481.DataAdapter1
+HangMan.DataAdapter1;md5c657ab4b1f002f2e7fd4c242fe474481.DataAdapter1
+hangman.DataAdapter1;md5c657ab4b1f002f2e7fd4c242fe474481.DataAdapter1
+HangMan.MainActivity, HangMan;md5c657ab4b1f002f2e7fd4c242fe474481.MainActivity
+HangMan.MainActivity, HangMan, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5c657ab4b1f002f2e7fd4c242fe474481.MainActivity
+HangMan.MainActivity;md5c657ab4b1f002f2e7fd4c242fe474481.MainActivity
+hangman.MainActivity;md5c657ab4b1f002f2e7fd4c242fe474481.MainActivity
+SplashScreen.SplashActivity, HangMan;md542cc11e95a23c03798ddf052f66920d8.SplashActivity
+SplashScreen.SplashActivity, HangMan, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md542cc11e95a23c03798ddf052f66920d8.SplashActivity
+SplashScreen.SplashActivity;md542cc11e95a23c03798ddf052f66920d8.SplashActivity
+splashscreen.SplashActivity;md542cc11e95a23c03798ddf052f66920d8.SplashActivity
